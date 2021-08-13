@@ -231,7 +231,7 @@ public class Calculadora {
                         System.out.println(" MULTIPLICAÇÃO POR ESCALAR");
                         System.out.println("-----------------------------");
                         
-                        //Inserção do escalar para reaizar a multiplicação
+                        //Inserção do escalar para realizar a multiplicação
                         System.out.println("Na operação de multiplicação por escalar você multiplica os valores da matriz por um numero inteiro, insira abaixo o numero inteiro para realizar a operação: ");
                         int escalar = scan.nextInt();
                         
